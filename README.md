@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Casaes
 - 👀 I’m interested in desenvolver o conhecimento de programar
-- 🌱 I’m currently learning Python e C++
+- 🌱 I’m currently learning Python, C#, NodeJS, JavaScript, Html+CSS
 - 📫 How to reach me :
 - Instagram: @rafaelcasaess
 - Email: rafaelcasaes.eng@gmail.com
